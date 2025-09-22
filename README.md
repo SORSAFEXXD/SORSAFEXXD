@@ -13,7 +13,7 @@
 
 <!-- Neon Gradient Bar -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Code%20%26%20Craft%20%E2%9A%A1&width=1200&height=180" alt="banner">
+  <img src="banner.jpg" alt="banner">
 </p>
 
 <!-- Wavy Divider -->
