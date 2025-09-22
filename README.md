@@ -153,8 +153,8 @@
 > “Great products are built by great people working together.”
 
 - 💌 Email: **safe.pmk32@gmail.com**  
-- 🐦 DM me on X/Twitter  
-- 🔗 LinkedIn: add your link here  
+- 🐦 DM me on https://www.facebook.com/TnpSafe/
+- 🔗 LinkedIn: [add your link here  ](https://github.com/SORSAFEXXD)
 
 <!-- Neon Wave Footer -->
 <p align="center">
