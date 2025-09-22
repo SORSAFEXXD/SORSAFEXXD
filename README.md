@@ -31,10 +31,6 @@
   <a href="https://www.facebook.com/TnpSafe">
     <img src="https://img.shields.io/badge/Facebook-TnpSafe-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/X(Twitter)-follow-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <img src="[https://komarev.com/ghpvc/?username=SORSAFEXXD&style=for-the-badge](https://github.com/SORSAFEXXD)" alt="views"/>
 </p>
 
 <!-- =========================
