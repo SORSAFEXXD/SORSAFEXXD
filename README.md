@@ -5,7 +5,7 @@
   <img src="pro.jpg" alt="Thanapat Siriprapasuk" width="170" style="border-radius:50%; box-shadow:0 10px 30px rgba(0,0,0,.25);" />
 </p>
 
-<h1 align="center">Thanapat (Safe) Siriprapasuk</h1>
+<h1 align="center">Thanapat Siriprapasuk</h1>
 <p align="center">
   <strong>Inter Back-end Developer</strong> · Spring Boot · Java · Flutter  
 </p>
