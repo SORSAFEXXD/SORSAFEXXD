@@ -133,7 +133,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SORSAFEXXD&show_icons=true&hide_title=true&theme=tokyonight" height="155" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SORSAFEXXD&layout=compact&theme=tokyonight" height="155" />
-  <img src="https://streak-stats.demolab.com?user=SORSAFEXXD&theme=tokyonight&hide_border=true" height="155" />
 </div>
 
 <!-- Contribution Snake (dark) -->
