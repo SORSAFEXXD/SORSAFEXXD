@@ -13,7 +13,6 @@
 
 <!-- Neon Gradient Bar -->
 <p align="center">
-  <img src="banner.jpg" alt="banner">
 </p>
 
 <!-- Wavy Divider -->
