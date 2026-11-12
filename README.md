@@ -7,7 +7,7 @@
 
 <h1 align="center">Thanapat Siriprapasuk (SAFE)</h1>
 <p align="center">
-  <strong>Inter Back-end Developer</strong> · Spring Boot · Java · Flutter  
+  <strong> Full stack Developer</strong> · Spring Boot · Java · Flutter · C# · .NET · Node.js · Express.js · React · Vue
 </p>
 <p align="center"><i>"Turning ideas into delightful, scalable software."</i></p>
 
